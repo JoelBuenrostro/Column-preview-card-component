@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------
-Theme:
-Description:
+Theme: Main Dessign
+Description: 3 Columns, orange, blue, green as principal colors
 -----------------------------------------------------------------------------*/
 
 :root {
@@ -54,7 +54,7 @@ p {
 
 .column-sedan {
   background-color: var(--clr-sedans);
-  border-radius: 8px 8px 0 0;
+  border-radius: 8px 0 0 8px;
   padding: 2.5em 2em 2.5em 2em;
   color: var(--clr-sedans);
   max-width: 300px;
@@ -66,14 +66,16 @@ p {
   padding: 2.5em 2em 2.5em 2em;
   color: var(--clr-suvs);
   max-width: 300px;
+  width: minmax;
 }
 
 .column-luxury {
   background-color: var(--clr-luxury);
+  border-radius: 0 8px 8px 0;
   padding: 2.5em 2em 2.5em 2em;
-  border-radius: 0 0 8px 8px;
   color: var(--clr-luxury);
   max-width: 300px;
+  width: minmax;
 }
 
 .column-name {
@@ -95,7 +97,6 @@ p {
     padding-top: 8rem;
   }
   .bg-color-sedans {
-    border-radius: 8px 0 0 8px;
     display: inline-block;
     padding: 3rem;
     min-width: 300px;
@@ -106,7 +107,6 @@ p {
     min-width: 300px;
   }
   .bg-color-luxury {
-    border-radius: 0 8px 8px 0;
     display: inline-block;
     padding: 3rem;
     min-width: 300px;
