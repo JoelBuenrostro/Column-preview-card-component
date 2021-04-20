@@ -10,7 +10,6 @@ Thanks for checking out this challenge.
 - [Overview](#Overview)
   - [Challenge](#Challenge)
   - [Design](#Design)
-  - [Links](#Links)
 - [Process](#Process)
   - [Built with](#Built-with)
 - [Layout](#Layout)
@@ -20,6 +19,9 @@ Thanks for checking out this challenge.
 - [Typography](#Typography)
   - [Body](#Body)
   - [Font](#Font)
+- [Links](#Links)
+  - [Resources](#Resources)
+  - [Profile](#Profile)
 
 ## Overview
 
@@ -31,11 +33,6 @@ Thanks for checking out this challenge.
 ### Design
 
 ![Desktop](./design/desktop-design.jpg)
-
-### Links
-
-- [Solution URL](#)
-- [Live site](#)
 
 ## Process
 
@@ -74,3 +71,17 @@ Font size: 15px
 
 - Family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display)
 - Weights: 700
+
+## Links
+
+### Resources
+
+- [freeCodeCamp](https://www.freecodecamp.org)
+- [MDN Web Docs](https://developer.mozilla.org)
+- [w3schools](https://www.w3schools.com/)
+
+### Profile
+
+- [Challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
+- [Live site](https://joelbuenrostro.github.io/Column-preview-card-component/)
+- [My profile](https://www.frontendmentor.io/profile/JoelBuenrostro)
